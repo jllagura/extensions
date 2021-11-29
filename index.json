@@ -289,6 +289,16 @@
       "ver": "1.0.1",
       "libVer": "1.0.0",
       "md5": ""
+    },
+    {
+      "name": "Hosted Novel",
+      "fileName": "HostedNovel",
+      "imageURL": "",
+      "id": 4444,
+      "lang": "en",
+      "ver": "1.0.0",
+      "libVer": "1.0.0",
+      "md5": ""
     }
   ]
 }
